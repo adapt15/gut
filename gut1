@@ -1,0 +1,314 @@
+[
+    {
+        "title": "We Are the Champions",
+        "artist": "Queen",
+        "notes": [
+            "C4 E4 G4 C5",
+            "G4 E4 C5 D5",
+            "F4 E4 D4 C4",
+            "C4 E4 G4 C5"
+        ]
+    },
+    {
+        "title": "Eye of the Tiger",
+        "artist": "Survivor",
+        "notes": [
+            "A4 C5 C5 D5",
+            "E5 D5 C5 A4",
+            "B4 C5 E5 D5",
+            "A4"
+        ]
+    },
+    {
+        "title": "Seven Nation Army",
+        "artist": "The White Stripes",
+        "notes": [
+            "E4 E4 G4 E4 D4 C4",
+            "E4 E4 G4 E4 D4 C4",
+            "B3 B3 B4 G4 E4 D4 C4"
+        ]
+    },
+    {
+        "title": "Olé Olé Olé",
+        "artist": "The Fans",
+        "notes": [
+            "C4 D4 E4",
+            "C4 D4 G4",
+            "C4 D4 E4",
+            "C4 D4 G4"
+        ]
+    },
+    {
+        "title": "We Will Rock You",
+        "artist": "Queen",
+        "notes": [
+            "E5 E5 E5 E5",
+            "G5 G5",
+            "E5 E5 E5 E5",
+            "G5"
+        ]
+    },
+    {
+        "title": "Thunder",
+        "artist": "Imagine Dragons",
+        "notes": [
+            "C4 C4 D4 E4",
+            "C4 C4 D4 G4",
+            "C4 C4 E4 G4",
+            "C4 G4"
+        ]
+    },
+    {
+        "title": "Sweet Child O' Mine",
+        "artist": "Guns N' Roses",
+        "notes": [
+            "D5 C5 G4 A4",
+            "D5 C5 G4 A4",
+            "C5 B4 A4 G4"
+        ]
+    },
+    {
+        "title": "Song 2",
+        "artist": "Blur",
+        "notes": [
+            "B4 B4 B4 B4",
+            "C5 C5",
+            "D5 B4 B4",
+            "C5"
+        ]
+    },
+    {
+        "title": "Simply the Best",
+        "artist": "Tina Turner",
+        "notes": [
+            "C4 C4 D4 G4",
+            "C4 C4 E4 D4",
+            "G4 F4 E4 D4"
+        ]
+    },
+    {
+        "title": "Wavin' Flag",
+        "artist": "K'naan",
+        "notes": [
+            "C4 G4 F4 E4",
+            "C4 G4 F4 E4",
+            "D4 C4"
+        ]
+    },
+    {
+        "title": "I Gotta Feeling",
+        "artist": "The Black Eyed Peas",
+        "notes": [
+            "G4 A4 B4 C5",
+            "G4 A4 B4 C5",
+            "E4 D4 C4"
+        ]
+    },
+    {
+        "title": "We are One (Ole Ola)",
+        "artist": "Pitbull ft. Jennifer Lopez",
+        "notes": [
+            "D4 A4 B4 G4",
+            "D4 A4 B4 G4",
+            "C4 B4 A4 G4"
+        ]
+    },
+    {
+        "title": "Don't Stop Believin'",
+        "artist": "Journey",
+        "notes": [
+            "E4 E4 G4 A4",
+            "E4 G4 A4 B4",
+            "E4 G4 A4"
+        ]
+    },
+    {
+        "title": "Can't Stop the Feeling!",
+        "artist": "Justin Timberlake",
+        "notes": [
+            "A4 B4 C#5 D5",
+            "A4 B4 C#5 D5",
+            "G4 F#4 E4"
+        ]
+    },
+    {
+        "title": "Livin' on a Prayer",
+        "artist": "Bon Jovi",
+        "notes": [
+            "D4 A4 B4 G4",
+            "D4 A4 B4 G4",
+            "C4 B4 A4 G4"
+        ]
+    },
+    {
+        "title": "Shout",
+        "artist": "The Isley Brothers",
+        "notes": [
+            "C4 D4 E4",
+            "G4 A4 B4",
+            "C4 D4 E4"
+        ]
+    },
+    {
+        "title": "Dancing Queen",
+        "artist": "ABBA",
+        "notes": [
+            "A4 B4 C#5 D5",
+            "A4 B4 C#5 D5",
+            "G4 F#4 E4"
+        ]
+    },
+    {
+        "title": "Hey Jude",
+        "artist": "The Beatles",
+        "notes": [
+            "C4 D4 E4 F4",
+            "G4 G4 F4 E4",
+            "D4 C4"
+        ]
+    },
+    {
+        "title": "Uptown Funk",
+        "artist": "Mark Ronson ft. Bruno Mars",
+        "notes": [
+            "D4 D4 D4 G4",
+            "C4 B4 A4 G4",
+            "D4 D4 D4 G4"
+        ]
+    },
+    {
+        "title": "Born to Run",
+        "artist": "Bruce Springsteen",
+        "notes": [
+            "E4 G4 A4 B4",
+            "E4 G4 A4 B4",
+            "C4 B4 A4 G4"
+        ]
+    },
+    {
+        "title": "Take Me Out",
+        "artist": "Franz Ferdinand",
+        "notes": [
+            "A4 B4 C#5 D5",
+            "A4 B4 C#5 D5",
+            "E4 D4 C#4"
+        ]
+    },
+    {
+        "title": "Chelsea Dagger",
+        "artist": "The Fratellis",
+        "notes": [
+            "C4 D4 E4",
+            "G4 C4 B4 A4",
+            "C4 D4 E4"
+        ]
+    },
+    {
+        "title": "Zombie Nation",
+        "artist": "Kernkraft 400",
+        "notes": [
+            "C4 D4 E4",
+            "C4 D4 E4",
+            "C4 B4 A4 G4"
+        ]
+    },
+    {
+        "title": "Don't Stop Me Now",
+        "artist": "Queen",
+        "notes": [
+            "D4 A4 G4 A4",
+            "D4 A4 G4 B4",
+            "C4 B4 A4 G4"
+        ]
+    },
+    {
+        "title": "The Final Countdown",
+        "artist": "Europe",
+        "notes": [
+            "C4 G4 A4 B4",
+            "C4 G4 A4 B4",
+            "E4 D4 C4 B4"
+        ]
+    },
+    {
+        "title": "Chariots of Fire",
+        "artist": "Vangelis",
+        "notes": [
+            "C4 E4 G4 C5",
+            "E4 G4 A4 B4",
+            "C5 B4 A4 G4"
+        ]
+    },
+    {
+        "title": "Another One Bites the Dust",
+        "artist": "Queen",
+        "notes": [
+            "E4 E4 E4 G4",
+            "E4 E4 E4 G4",
+            "A4 B4 C4 D4"
+        ]
+    },
+    {
+        "title": "Tubthumping",
+        "artist": "Chumbawamba",
+        "notes": [
+            "A4 A4 B4 C5",
+            "A4 A4 B4 C5",
+            "G4 F#4 E4"
+        ]
+    },
+    {
+        "title": "All Star",
+        "artist": "Smash Mouth",
+        "notes": [
+            "C4 D4 E4 G4",
+            "C4 D4 E4 G4",
+            "A4 B4 C4 D4"
+        ]
+    },
+    {
+        "title": "Welcome to the Jungle",
+        "artist": "Guns N' Roses",
+        "notes": [
+            "E4 E4 G4 A4",
+            "E4 E4 G4 A4",
+            "C4 B4 A4 G4"
+        ]
+    },
+    {
+        "title": "In the End",
+        "artist": "Linkin Park",
+        "notes": [
+            "C4 E4 A4 B4",
+            "C4 E4 A4 B4",
+            "D4 C4 B4 A4"
+        ]
+    },
+    {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "notes": [
+            "C4 D4 E4 G4",
+            "C4 D4 E4 G4",
+            "A4 B4 C4 D4"
+        ]
+    },
+    {
+        "title": "I Love Rock 'n' Roll",
+        "artist": "Joan Jett & The Blackhearts",
+        "notes": [
+            "C4 D4 E4 G4",
+            "C4 D4 E4 G4",
+            "A4 B4 C4 D4"
+        ]
+    },
+    {
+        "title": "Pump It",
+        "artist": "The Black Eyed Peas",
+        "notes": [
+            "C4 D4 E4 G4",
+            "C4 D4 E4 G4",
+            "A4 B4 C4 D4"
+        ]
+    }
+]
