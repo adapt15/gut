@@ -1,0 +1,206 @@
+[
+    {
+        "title": "We Are the Champions",
+        "artist": "Queen",
+        "chords": ["C", "G", "Am", "F"],
+        "strumming": "D-D-U-U-D-U"
+    },
+    {
+        "title": "Eye of the Tiger",
+        "artist": "Survivor",
+        "chords": ["Am", "G", "C", "Em"],
+        "strumming": "D-D-U-U-D-U"
+    },
+    {
+        "title": "Seven Nation Army",
+        "artist": "The White Stripes",
+        "chords": ["Em", "G", "D", "A"],
+        "strumming": "D-D-D-D"
+    },
+    {
+        "title": "Olé Olé Olé",
+        "artist": "The Fans",
+        "chords": ["C", "D", "G"],
+        "strumming": "D-D-U-U-D"
+    },
+    {
+        "title": "We Will Rock You",
+        "artist": "Queen",
+        "chords": ["E", "G"],
+        "strumming": "D-D (with pause)"
+    },
+    {
+        "title": "Thunder",
+        "artist": "Imagine Dragons",
+        "chords": ["C", "D", "G", "Em"],
+        "strumming": "D-U-D-U"
+    },
+    {
+        "title": "Sweet Child O' Mine",
+        "artist": "Guns N' Roses",
+        "chords": ["D", "C", "G", "A"],
+        "strumming": "D-D-U-D-U"
+    },
+    {
+        "title": "Song 2",
+        "artist": "Blur",
+        "chords": ["B", "C", "D"],
+        "strumming": "D-D-D-D"
+    },
+    {
+        "title": "Simply the Best",
+        "artist": "Tina Turner",
+        "chords": ["C", "G", "Am", "F"],
+        "strumming": "D-D-U-U-D-U"
+    },
+    {
+        "title": "Wavin' Flag",
+        "artist": "K'naan",
+        "chords": ["C", "G", "F", "E"],
+        "strumming": "D-U-D-U"
+    },
+    {
+        "title": "I Gotta Feeling",
+        "artist": "The Black Eyed Peas",
+        "chords": ["G", "A", "B", "C"],
+        "strumming": "D-U-D-U"
+    },
+    {
+        "title": "We are One (Ole Ola)",
+        "artist": "Pitbull ft. Jennifer Lopez",
+        "chords": ["D", "A", "B", "G"],
+        "strumming": "D-U-D-U"
+    },
+    {
+        "title": "Don't Stop Believin'",
+        "artist": "Journey",
+        "chords": ["E", "G", "A", "B"],
+        "strumming": "D-D-U-D-U"
+    },
+    {
+        "title": "Can't Stop the Feeling!",
+        "artist": "Justin Timberlake",
+        "chords": ["A", "B", "C#", "D"],
+        "strumming": "D-U-D-U"
+    },
+    {
+        "title": "Livin' on a Prayer",
+        "artist": "Bon Jovi",
+        "chords": ["D", "A", "B", "G"],
+        "strumming": "D-U-D-U"
+    },
+    {
+        "title": "Shout",
+        "artist": "The Isley Brothers",
+        "chords": ["C", "D", "E", "G", "A"],
+        "strumming": "D-D-U-D-U"
+    },
+    {
+        "title": "Dancing Queen",
+        "artist": "ABBA",
+        "chords": ["A", "B", "C#", "D"],
+        "strumming": "D-U-D-U"
+    },
+    {
+        "title": "Hey Jude",
+        "artist": "The Beatles",
+        "chords": ["C", "D", "E", "F", "G"],
+        "strumming": "D-D-U-U-D"
+    },
+    {
+        "title": "Uptown Funk",
+        "artist": "Mark Ronson ft. Bruno Mars",
+        "chords": ["D", "G", "C", "B", "A"],
+        "strumming": "D-U-D-U"
+    },
+    {
+        "title": "Born to Run",
+        "artist": "Bruce Springsteen",
+        "chords": ["E", "G", "A", "B", "C"],
+        "strumming": "D-U-D-U"
+    },
+    {
+        "title": "Take Me Out",
+        "artist": "Franz Ferdinand",
+        "chords": ["A", "B", "C#", "D", "E"],
+        "strumming": "D-D-U-U-D"
+    },
+    {
+        "title": "Chelsea Dagger",
+        "artist": "The Fratellis",
+        "chords": ["C", "D", "E", "G"],
+        "strumming": "D-U-D-U"
+    },
+    {
+        "title": "Zombie Nation",
+        "artist": "Kernkraft 400",
+        "chords": ["C", "D", "E", "B", "A"],
+        "strumming": "D-D-U-U-D"
+    },
+    {
+        "title": "Don't Stop Me Now",
+        "artist": "Queen",
+        "chords": ["D", "A", "G", "B"],
+        "strumming": "D-D-U-U-D-U"
+    },
+    {
+        "title": "The Final Countdown",
+        "artist": "Europe",
+        "chords": ["C", "G", "A", "B"],
+        "strumming": "D-U-D-U"
+    },
+    {
+        "title": "Chariots of Fire",
+        "artist": "Vangelis",
+        "chords": ["C", "E", "G", "A", "B"],
+        "strumming": "D-D-U-U-D"
+    },
+    {
+        "title": "Another One Bites the Dust",
+        "artist": "Queen",
+        "chords": ["E", "G", "A", "B"],
+        "strumming": "D-D-D"
+    },
+    {
+        "title": "Tubthumping",
+        "artist": "Chumbawamba",
+        "chords": ["A", "B", "C", "G", "F#"],
+        "strumming": "D-U-D-U"
+    },
+    {
+        "title": "All Star",
+        "artist": "Smash Mouth",
+        "chords": ["C", "D", "E", "G", "A"],
+        "strumming": "D-U-D-U"
+    },
+    {
+        "title": "Welcome to the Jungle",
+        "artist": "Guns N' Roses",
+        "chords": ["E", "G", "A", "C", "B"],
+        "strumming": "D-D-U-D-U"
+    },
+    {
+        "title": "In the End",
+        "artist": "Linkin Park",
+        "chords": ["C", "E", "A", "B", "D"],
+        "strumming": "D-D-U-D-U"
+    },
+    {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "chords": ["C", "D", "E", "G", "A"],
+        "strumming": "D-U-D-U"
+    },
+    {
+        "title": "I Love Rock 'n' Roll",
+        "artist": "Joan Jett & The Blackhearts",
+        "chords": ["C", "D", "E", "G", "A"],
+        "strumming": "D-D-U-U-D"
+    },
+    {
+        "title": "Pump It",
+        "artist": "The Black Eyed Peas",
+        "chords": ["C", "D", "E", "G", "A"],
+        "strumming": "D-D-U-D-U"
+    }
+]
