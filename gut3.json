@@ -1,0 +1,206 @@
+[
+    {
+        "title": "We Are the Champions",
+        "artist": "Queen",
+        "notes": ["C", "G", "A", "F"],
+        "rhythmPattern": "Long-Short-Short"
+    },
+    {
+        "title": "Eye of the Tiger",
+        "artist": "Survivor",
+        "notes": ["A", "G", "C", "E"],
+        "rhythmPattern": "Short-Short-Long"
+    },
+    {
+        "title": "Seven Nation Army",
+        "artist": "The White Stripes",
+        "notes": ["E", "G", "D", "A"],
+        "rhythmPattern": "Steady Beat"
+    },
+    {
+        "title": "Olé Olé Olé",
+        "artist": "The Fans",
+        "notes": ["C", "D", "G"],
+        "rhythmPattern": "Long-Short"
+    },
+    {
+        "title": "We Will Rock You",
+        "artist": "Queen",
+        "notes": ["E", "G"],
+        "rhythmPattern": "Heavy Beat with Pause"
+    },
+    {
+        "title": "Thunder",
+        "artist": "Imagine Dragons",
+        "notes": ["C", "D", "G", "E"],
+        "rhythmPattern": "Syncopated"
+    },
+    {
+        "title": "Sweet Child O' Mine",
+        "artist": "Guns N' Roses",
+        "notes": ["D", "C", "G", "A"],
+        "rhythmPattern": "Rock Groove"
+    },
+    {
+        "title": "Song 2",
+        "artist": "Blur",
+        "notes": ["B", "C", "D"],
+        "rhythmPattern": "Fast Beat"
+    },
+    {
+        "title": "Simply the Best",
+        "artist": "Tina Turner",
+        "notes": ["C", "G", "A", "F"],
+        "rhythmPattern": "Long-Short-Short"
+    },
+    {
+        "title": "Wavin' Flag",
+        "artist": "K'naan",
+        "notes": ["C", "G", "F", "E"],
+        "rhythmPattern": "Island Groove"
+    },
+    {
+        "title": "I Gotta Feeling",
+        "artist": "The Black Eyed Peas",
+        "notes": ["G", "A", "B", "C"],
+        "rhythmPattern": "Upbeat Groove"
+    },
+    {
+        "title": "We are One (Ole Ola)",
+        "artist": "Pitbull ft. Jennifer Lopez",
+        "notes": ["D", "A", "B", "G"],
+        "rhythmPattern": "Latin Beat"
+    },
+    {
+        "title": "Don't Stop Believin'",
+        "artist": "Journey",
+        "notes": ["E", "G", "A", "B"],
+        "rhythmPattern": "Rock Ballad"
+    },
+    {
+        "title": "Can't Stop the Feeling!",
+        "artist": "Justin Timberlake",
+        "notes": ["A", "B", "C#", "D"],
+        "rhythmPattern": "Funky Groove"
+    },
+    {
+        "title": "Livin' on a Prayer",
+        "artist": "Bon Jovi",
+        "notes": ["D", "A", "B", "G"],
+        "rhythmPattern": "Classic Rock"
+    },
+    {
+        "title": "Shout",
+        "artist": "The Isley Brothers",
+        "notes": ["C", "D", "E", "G", "A"],
+        "rhythmPattern": "Soul Groove"
+    },
+    {
+        "title": "Dancing Queen",
+        "artist": "ABBA",
+        "notes": ["A", "B", "C#", "D"],
+        "rhythmPattern": "Disco Beat"
+    },
+    {
+        "title": "Hey Jude",
+        "artist": "The Beatles",
+        "notes": ["C", "D", "E", "F", "G"],
+        "rhythmPattern": "Gentle Ballad"
+    },
+    {
+        "title": "Uptown Funk",
+        "artist": "Mark Ronson ft. Bruno Mars",
+        "notes": ["D", "G", "C", "B", "A"],
+        "rhythmPattern": "Funky Groove"
+    },
+    {
+        "title": "Born to Run",
+        "artist": "Bruce Springsteen",
+        "notes": ["E", "G", "A", "B", "C"],
+        "rhythmPattern": "Driving Beat"
+    },
+    {
+        "title": "Take Me Out",
+        "artist": "Franz Ferdinand",
+        "notes": ["A", "B", "C#", "D", "E"],
+        "rhythmPattern": "Upbeat Rock"
+    },
+    {
+        "title": "Chelsea Dagger",
+        "artist": "The Fratellis",
+        "notes": ["C", "D", "E", "G"],
+        "rhythmPattern": "Dance Beat"
+    },
+    {
+        "title": "Zombie Nation",
+        "artist": "Kernkraft 400",
+        "notes": ["C", "D", "E", "B", "A"],
+        "rhythmPattern": "Techno Beat"
+    },
+    {
+        "title": "Don't Stop Me Now",
+        "artist": "Queen",
+        "notes": ["D", "A", "G", "B"],
+        "rhythmPattern": "Upbeat Rock"
+    },
+    {
+        "title": "The Final Countdown",
+        "artist": "Europe",
+        "notes": ["C", "G", "A", "B"],
+        "rhythmPattern": "Epic Groove"
+    },
+    {
+        "title": "Chariots of Fire",
+        "artist": "Vangelis",
+        "notes": ["C", "E", "G", "A", "B"],
+        "rhythmPattern": "Slow Build"
+    },
+    {
+        "title": "Another One Bites the Dust",
+        "artist": "Queen",
+        "notes": ["E", "G", "A", "B"],
+        "rhythmPattern": "Heavy Beat"
+    },
+    {
+        "title": "Tubthumping",
+        "artist": "Chumbawamba",
+        "notes": ["A", "B", "C", "G", "F#"],
+        "rhythmPattern": "Party Beat"
+    },
+    {
+        "title": "All Star",
+        "artist": "Smash Mouth",
+        "notes": ["C", "D", "E", "G", "A"],
+        "rhythmPattern": "Catchy Beat"
+    },
+    {
+        "title": "Welcome to the Jungle",
+        "artist": "Guns N' Roses",
+        "notes": ["E", "G", "A", "C", "B"],
+        "rhythmPattern": "Heavy Rock"
+    },
+    {
+        "title": "In the End",
+        "artist": "Linkin Park",
+        "notes": ["C", "E", "A", "B", "D"],
+        "rhythmPattern": "Emotional Beat"
+    },
+    {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "notes": ["C", "D", "E", "G", "A"],
+        "rhythmPattern": "Pop Groove"
+    },
+    {
+        "title": "I Love Rock 'n' Roll",
+        "artist": "Joan Jett & The Blackhearts",
+        "notes": ["C", "D", "E", "G", "A"],
+        "rhythmPattern": "Anthem Beat"
+    },
+    {
+        "title": "Pump It",
+        "artist": "The Black Eyed Peas",
+        "notes": ["C", "D", "E", "G", "A"],
+        "rhythmPattern": "Energetic Groove"
+    }
+]
